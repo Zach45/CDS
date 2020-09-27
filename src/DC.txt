@@ -1,0 +1,27 @@
+Object detection
+
+The program is designed to detect the presence
+of person smartphone and book as they are considered
+as the prohibited items during an examination or 
+test. Nevertheless it shows the confidence level 
+of each item detected.
+
+Voice Detection
+in this module the program records any noise or 
+sounds that is exerted to the surrounding and 
+it's filters out any silence. If there is 
+no sound or noise recorded for 5 seconds. 
+The program stops recording, filters out 
+the noise and stores it in a file in the 
+directory. For example, 
+when you say “open WhatsApp”, 
+it will be recorded and stored in wav format
+
+
+speech to text 
+in this program the module converts the 
+audio you that was recorded from The 
+Voice activity detection program.
+It converts it from audio to a 
+text using the ability of 
+Google activity recognition
